@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: DT_Mephistroth
+## Notes: Помощник для Mephistroth - отключает WASD на Shackles
+## Version: 1.0
+## SavedVariables: DT_MephistrothDB
+
+DT_Timer.lua
+sounddtm.lua
+DT_Mephistroth.lua
